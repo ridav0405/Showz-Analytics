@@ -12,7 +12,9 @@ Determine when revenue covers the cost of customer acquisition
 
 ### 📈 Datasets Used
 visits_log_us.csv: User visit log (359,400 records)
+
 orders_log_us.csv: Order and revenue log (50,415 records)
+
 costs_us.csv: Marketing costs by source (2,542 records)
 
 ### 🛠️ Technologies Used

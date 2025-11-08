@@ -5,9 +5,13 @@ Comprehensive analysis of digital marketing data to determine the effectiveness 
 
 ### 🎯 Objectives
 Analyze user behavior on the platform
+
 Determine when and how users make their first purchases
+
 Calculate customer lifetime value
+
 Evaluate the effectiveness of different marketing channels
+
 Determine when revenue covers the cost of customer acquisition
 
 ### 📈 Datasets Used
@@ -19,14 +23,23 @@ costs_us.csv: Marketing costs by source (2,542 records)
 
 ### 🛠️ Technologies Used
 Python 3.9
+
 Pandas
+
 Data manipulation and analysis
+
 NumPy
+
 Numerical calculations
+
 Matplotlib & Seaborn
+
 Data visualization
+
 Jupyter Notebook
+
 Development and documentation
+
 
 ### 🔍 Key Findings
 ### User Behavior
